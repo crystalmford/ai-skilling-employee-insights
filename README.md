@@ -1,12 +1,22 @@
-# AI Skilling Employee Insights
+# AI Skilling Employee Insights Dashboard
 
-**Goal.** Merge HR-style employee data (training, surveys, recruitment) into a unified dataset to show how engagement and sentiment influence training outcomes.
+This project was built as part of an application for Microsoft’s AI Skilling Data Analyst role (Job ID 1838294).
 
-**Deliverables.**
-- Jupyter notebook (data prep + sentiment labeling)
-- Power BI dashboard with KPIs + sentiment analysis
+**Goal**  
+Analyze HR-style employee data (survey results, training records, recruitment info) to highlight how engagement and sentiment connect to training outcomes.  
 
-**Key Features.**
-- KPI cards: Avg Satisfaction Score, Training Completion Rate, % Positive Sentiment
-- Bar chart: Training Completion by Sentiment (color-coded)
-- Clean, HR-ready data storytelling
+**Deliverables**  
+- Jupyter/Colab notebook (`.ipynb` + PDF) with data prep, merges, sentiment tagging.  
+- Power BI dashboard with executive-style visuals.  
+
+**Dashboard Features**  
+- KPI cards: Avg Satisfaction Score, Training Completion Rate, % Positive Sentiment.  
+- Sentiment-colored bar chart: Training Completion by Sentiment.  
+- Clean, HR-friendly data storytelling.  
+
+**Tools Used**  
+- Python (pandas, matplotlib, sklearn)  
+- Power BI (KPIs, bar chart, formatting)  
+
+**Preview**  
+![Dashboard Preview](ai_skilling_dashboard.png)
